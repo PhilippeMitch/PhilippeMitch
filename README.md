@@ -64,7 +64,7 @@ Don't forget to hit the ⭐ if you like this repo.
 ## Web Application
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Sales Management](https://github.com/PhilippeMitch/gestion_de_vente_asp.net_c-) |    |
+|[Sales Management](https://github.com/PhilippeMitch/gestion_de_vente_asp.net_c-) | <ul><li>ASP.net</li><li>CSharp</li><li>SQL Server</li> </ul>   |
 
 ## Data Visualization
 |             Projects                             |                               Tools                                     |
