@@ -35,8 +35,8 @@ Don't forget to hit the ⭐ if you like this repo.
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
 |[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| <ul> <li>Mlflow</li> <li>scikit-learn</li> <li>wandb</li> </ul>|
-[Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | <ul><li>scikit-learn</li><li>flask</li><licrontab</li></ul>|
-|[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) |  |
+[Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | <ul><li>scikit-learn</li><li>flask</li><li>crontab</li></ul>|
+|[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) | <ul><li>Amazon SageMaker</li><li>Amazon S3</li><li>PyTorch</li></ul> |
 |[Automated Passenger Boarding Kiosk](https://github.com/PhilippeMitch/Automated-Passenger-Boarding-Kiosk) | |
 |[API for Salary Prediction](https://github.com/PhilippeMitch/Salary-Prediction-API) |    |
 |[Predict Customer Churn](https://github.com/PhilippeMitch/Predict-Customer-Churn) |   |
