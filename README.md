@@ -28,13 +28,13 @@ Don't forget to hit the ⭐ if you like this repo.
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
 | [Data Ware House For Bike Share Analytics](https://github.com/PhilippeMitch/Data-Ware-House-For-Bike-Share-Analytics) | <ul><li> Python</li> <li>SQL</li><li>Azure Database for PostgreSQL</li><li>Azure Synapse</li></lu>     |
-|[Prescriber Analytics](https://github.com/PhilippeMitch/Prescriber-Analytics)|   |
+|[Prescriber Analytics](https://github.com/PhilippeMitch/Prescriber-Analytics)|  <ul><li>Spark</li><li>Python</li><li>PyCharm</li><li>HDFS</li><li>Docker</li><li>YARN</li><li>Google Compute Engine</li><li>Amazon S3</li><li>Azure Blob Storage</li><li>PostgreSQL</li><li>Linux</li></ul> |
 
 
 ## Machine Learning
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| |
+|[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| <ul><li>Mlflow></li><li>scikit-learn</li><li>wandb</li></ul>|
 [Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | |
 |[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) |  |
 |[Automated Passenger Boarding Kiosk](https://github.com/PhilippeMitch/Automated-Passenger-Boarding-Kiosk) | |
