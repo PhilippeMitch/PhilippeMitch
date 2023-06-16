@@ -51,8 +51,8 @@ Don't forget to hit the ⭐ if you like this repo.
 ## Desktop Application
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Gestion de tache](https://github.com/PhilippeMitch/gestion_de_tache) |         |
-|[System-Multi-Agent-JAde](https://github.com/PhilippeMitch/System-Multi-Agent-JAde)|    |
+|[Gestion de tache](https://github.com/PhilippeMitch/gestion_de_tache) |  <ul> <li> Java</li><li>JavaFx</li><li> Scene Builder</li><li>FontAwesomeFx</li><li>MySql</li> </ul>       |
+|[System-Multi-Agent-JAde](https://github.com/PhilippeMitch/System-Multi-Agent-JAde)|  <ul> <li> Java</li><li>JavaFx</li><li>Jade</li><li> Scene Builder</li><li>FontAwesomeFx</li><li>MySql</li> </ul>   |
 
 
 ## Data Visualization
