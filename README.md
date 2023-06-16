@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<!--
+🔭 I’m currently working as AI Egineer and also contributing to backend for building web applications.<br>
+🌱 I’m currently learning how to use some new technologies for Data engineer.<br>
+📫 How to reach me: Send an email or comment on one of the repositories.<br>
+
+Hope you find something that is useful for you on this repo.
+
+ <!--
 **PhilippeMitch/PhilippeMitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+If you find something that is usefull for you, feel free to download or fork the repository.<br>
+Don't forget to hit the ⭐ if you like this repo.
+
 -->
