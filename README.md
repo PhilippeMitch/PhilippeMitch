@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working as AI Egineer and also contributing to backend for building web applications.<br>
 🌱 I’m currently learning how to use some new technologies for Data engineer.<br>
 📫 How to reach me: Send an email or comment on one of the repositories.<br>
 
