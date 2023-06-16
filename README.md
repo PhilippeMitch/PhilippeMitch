@@ -34,17 +34,17 @@ Don't forget to hit the ⭐ if you like this repo.
 ## Machine Learning
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| <ul> <li>Mlflow</li> <li>scikit-learn</li><li>Jupyter</li><li>wandb</li> </ul>|
+|[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| <ul> <li>Mlflow</li> <li>Scikit-learn</li><li>Jupyter</li><li>Wandb</li> </ul>|
 [Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | <ul><li>scikit-learn</li><li>flask</li><li>Jupyter</li><li>crontab</li><li>hydra-core</li></ul>|
 |[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) | <ul><li>Amazon SageMaker</li><li>Amazon S3</li><li>PyTorch</li><li>Jupyter</li></ul> |
 |[Automated Passenger Boarding Kiosk](https://github.com/PhilippeMitch/Automated-Passenger-Boarding-Kiosk) | <ul><li>Azure Vision services</li> <li>Custom Vision</li> <li>Form Recognizer</li> <li>Face API</li> <li>Video indexer</li><li>Azure Blob Storage</li><li>Jupyter</li> </ul> |
-|[API for Salary Prediction](https://github.com/PhilippeMitch/Salary-Prediction-API) | <ul><li>FastAPI</li><li>scikit-learn</li><li>seaborn</li><li>pandas-profiling</li><li>shap</li><li>jupyterlab</li><li>xgboost</li><li>bayesian-optimization</li> </ul>   |
+|[API for Salary Prediction](https://github.com/PhilippeMitch/Salary-Prediction-API) | <ul><li>FastAPI</li><li>Scikit-learn</li><li>Seaborn</li><li>pandas-profiling</li><li>shap</li><li>jupyterlab</li><li>xgboost</li><li>bayesian-optimization</li> </ul>   |
 |[Predict Customer Churn](https://github.com/PhilippeMitch/Predict-Customer-Churn) |<ul><li>Scikit-learn</li><li>Seaborn</li> </ul>   |
-|[Human Gait Recognition](https://github.com/PhilippeMitch/Human-Gait-Recognition) | <ul><li>OpenCV</li><li>Skimage</li><li>PyTorch</li><Scikit-learn</li> </ul>    |
-|[Dimensionality Reduction](https://github.com/PhilippeMitch/dimensionality-reduction)|      |
-|[Hierachical Clustering](https://github.com/PhilippeMitch/Hierachical_Clustering)|     |
-|[Optimal Cluster for Kmeans](https://github.com/PhilippeMitch/Machine-Learning/tree/master/K-Means)|   |
-|[Fraud Detection](https://github.com/PhilippeMitch/Fraud_detection)|     |
+|[Human Gait Recognition](https://github.com/PhilippeMitch/Human-Gait-Recognition) | <ul><li>OpenCV</li><li>Skimage</li><li>PyTorch</li><li>Scikit-learn</li> </ul>    |
+|[Dimensionality Reduction](https://github.com/PhilippeMitch/dimensionality-reduction)|  <ul><li>Scikit-learn</li><li>Pandas</li><li>Seaborn</li> </ul>    |
+|[Hierachical Clustering](https://github.com/PhilippeMitch/Hierachical_Clustering)|  <ul><li>Scikit-learn</li><li>Pandas</li><li>Scipy</li> </ul>   |
+|[Optimal Cluster for Kmeans](https://github.com/PhilippeMitch/Machine-Learning/tree/master/K-Means)| <ul><li>Scikit-learn</li><li>Pandas</li><li>Seaborn</li> </ul>  |
+|[Fraud Detection](https://github.com/PhilippeMitch/Fraud_detection)|  <ul><li>Scikit-learn</li><li>Pandas</li> </ul>   |
 
 
 
