@@ -24,3 +24,24 @@ If you find something that is usefull for you, feel free to download or fork the
 Don't forget to hit the ⭐ if you like this repo.
 
 -->
+
+## Data Warehouse
+|             Projects                             |                               Tools                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------|
+| [Data Ware House For Bike Share Analytics](https://github.com/PhilippeMitch/Data-Ware-House-For-Bike-Share-Analytics) | <ul><li> Python</li> <li>SQL</li><li>Azure Database for PostgreSQL</li><li>Azure Synapse</li></lu>     |
+
+## Machine Learning
+|             Projects                             |                               Tools                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------|
+|[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| |
+[Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | |
+|[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) |  |
+|[Automated Passenger Boarding Kiosk](https://github.com/PhilippeMitch/Automated-Passenger-Boarding-Kiosk) | |
+|[API for Salary Prediction](https://github.com/PhilippeMitch/Salary-Prediction-API) |    |
+|[Predict Customer Churn](https://github.com/PhilippeMitch/Predict-Customer-Churn) |   |
+
+## Desktop Application
+|             Projects                             |                               Tools                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------|
+|[Gestion de tache](https://github.com/PhilippeMitch/gestion_de_tache) |         |
+|[System-Multi-Agent-JAde](https://github.com/PhilippeMitch/System-Multi-Agent-JAde)| |
