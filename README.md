@@ -30,6 +30,9 @@ Don't forget to hit the ⭐ if you like this repo.
 | [Data Ware House For Bike Share Analytics](https://github.com/PhilippeMitch/Data-Ware-House-For-Bike-Share-Analytics) | <ul><li> Python</li> <li>SQL</li><li>Azure Database for PostgreSQL</li><li>Azure Synapse</li></lu>     |
 | [Data Ware House For Bike Share Analytics with Databricks](https://github.com/PhilippeMitch/Building-an-Azure-Data-Lake-for-Bike-Share-Data-Analytics-Databricks) | <ul><li> PySpark</li> <li>SQL</li><li>Azure Databricks</li></lu>     |
 |[Prescriber Analytics](https://github.com/PhilippeMitch/Prescriber-Analytics)|  <ul><li>Spark</li><li>Python</li><li>PyCharm</li><li>HDFS</li><li>Docker</li><li>YARN</li><li>Google Compute Engine</li><li>Amazon S3</li><li>Azure Blob Storage</li><li>PostgreSQL</li><li>Linux</li></ul> |
+| [Sparkify S3 to Redshift ETL](https://github.com/PhilippeMitch/Sparkify-S3-to-Redshift-ETL)| <ul><li>Amazon S3</li><li>Python</li><li>Redshift</li></ul>|
+|[STEDI Human Balance Analytics](https://github.com/PhilippeMitch/STEDI-Human-Balance-Analytics)| <ul><li>AWS Glue</li><li>AWS Athena</li><li>AWS S3</li><li>Python</li><li>Spark</li></ul>|
+|[Data Pipelines With Airflow](https://github.com/PhilippeMitch/Data-Pipelines-with-Airflow)| <ul><li>Apache Airflow</li><li>AWS Redshift</li><li>AWS S3</li><li>Python</li></ul>|
 
 
 ## Machine Learning
