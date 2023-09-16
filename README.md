@@ -49,6 +49,7 @@ Don't forget to hit the ⭐ if you like this repo.
 |[Hierachical Clustering](https://github.com/PhilippeMitch/Hierachical_Clustering)|  <ul><li>Scikit-learn</li><li>Pandas</li><li>Scipy</li> </ul>   |
 |[Optimal Cluster for Kmeans](https://github.com/PhilippeMitch/Machine-Learning/tree/master/K-Means)| <ul><li>Scikit-learn</li><li>Pandas</li><li>Seaborn</li> </ul>  |
 |[Fraud Detection](https://github.com/PhilippeMitch/Fraud_detection)|  <ul><li>Scikit-learn</li><li>Pandas</li> </ul>   |
+|[Single Pose Estimation](https://github.com/PhilippeMitch/Single-Pose-Estimation)|<ul><li>Mediapipe</li><li>MoveNet</li><li>OpenCV</li><li>Python</li><li>Tensorflow</li></ul>
 
 
 
