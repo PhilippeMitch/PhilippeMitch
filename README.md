@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning how to use some new technologies for Data engineer.<br>
-📫 How to reach me: Send an email or comment on one of the repositories.<br>
-
+I can collaborate with software engineers and product managers to create sufficient artificial intelligence algorithms and i put my passion for AI engineering toward creating a safe and effective AI partner. <br>
+📫 How to reach me: Send an email or comment on one of the repositories.
 Hope you find something that is useful for you on this repo.
 
  <!--
