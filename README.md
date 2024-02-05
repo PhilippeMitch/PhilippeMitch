@@ -64,13 +64,17 @@ Don't forget to hit the ⭐ if you like this repo.
 ## Data Visualization
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Start with Pie chart & Bar Chart](https://github.com/PhilippeMitch/Data-Visualisation)|               |
+|[Start with Pie chart & Bar Chart](https://github.com/PhilippeMitch/Data-Visualisation)|<ul><li>Matplotlib</li><li>Pandas</li><li>Seaborn</li></ul>|
 
 
 ## Web Application
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
 |[Sales Management](https://github.com/PhilippeMitch/gestion_de_vente_asp.net_c-) | <ul><li>ASP.net</li><li>CSharp</li><li>SQL Server</li> </ul>   |
-|[Start with Django and ElasticSearch](https://github.com/PhilippeMitch/wikipedia_se/tree/master)| <ul><li>Django</li><li>ElasticSearch</li></ul>              |
+|[Start with Django and ElasticSearch](https://github.com/PhilippeMitch/wikipedia_se/tree/master)| <ul><li>Django</li><li>ElasticSearch</li></ul>|
 
+## DevOps
+|             Projects                             |                               Tools                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------|
+|[deployed a web servers for web app to an NGINX](https://github.com/PhilippeMitch/CloudFormation)|<ul><li>AWS EC2</li><li>AWS S3</li><li>CloudFormation</li></ul>|
 
