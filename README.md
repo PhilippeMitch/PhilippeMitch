@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I can collaborate with software engineers and product managers to create sufficient artificial intelligence algorithms and i put my passion for AI engineering toward creating a safe and effective AI partner. <br>
-📫 How to reach me: Send an email or comment on one of the repositories.
-Hope you find something that is useful for you on this repo.
+📫 How to reach me: Send an email or comment on one of the repositories. <br>
+
+If you are looking for a peace of solution, I hope you find something that is useful for you on this repo.
 
  <!--
 **PhilippeMitch/PhilippeMitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
