@@ -79,4 +79,5 @@ Don't forget to hit the ⭐ if you like this repo.
 |--------------------------------------------------|-------------------------------------------------------------------------|
 |[deployed a web servers for web app to an NGINX](https://github.com/PhilippeMitch/CloudFormation)|<ul><li>AWS EC2</li><li>AWS S3</li><li>CloudFormation</li></ul>|
 | [Operationalizing a Coworking Space Microservice](https://github.com/PhilippeMitch/Coworking-Space-Service)|<ul><li>AWS CLI</li><li>AWS CodeBuild</li><li>AWS ECR</li><li>AWS EKS</li><li>AWS CloudWatch</li></ul>|
+| [Movie Picture Pipeline](https://github.com/PhilippeMitch/movie-picture-cicd-project)| <ul><li>Terraform</li><li>Docker</li><li>AWS EKS</li><li>Amazon ECR</li><li>Github Action</li></ul>|
 
