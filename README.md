@@ -77,6 +77,9 @@ Don't forget to hit the ⭐ if you like this repo.
 ## DevOps
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
+|[Ensuring Quality Releases](https://github.com/PhilippeMitch/Project-Ensuring-Quality-Releases)|<ul><li>Azure Storage account</li><li>Azure Log Analytics</li><li>Web App</li><li>Azure Virtual Machines</li><li>Azure DevOps</li><li>Terraform</li><li>JMeter</li><li>Postman</li><li>Selenium</li></ul>
+|[Building a CICD Pipeline](https://github.com/PhilippeMitch/Building-a-CI-CD-Pipeline)|<ul><li>Azure Cloud Shell</li><li>Azure DevOps</li><li>Azure Pipeline</li>Azure Webapp</li><li>Github Action</li></ul>
+|[Deploying a scalable IaaS web server in Azure](https://github.com/PhilippeMitch/deploying-a-webserver-in-azure)|<ul><li>Azure</li><li>Terraform</li><li>Packer</li></ul>
 |[deployed a web servers for web app to an NGINX](https://github.com/PhilippeMitch/CloudFormation)|<ul><li>AWS EC2</li><li>AWS S3</li><li>CloudFormation</li></ul>|
 | [Operationalizing a Coworking Space Microservice](https://github.com/PhilippeMitch/Coworking-Space-Service)|<ul><li>AWS CLI</li><li>AWS CodeBuild</li><li>AWS ECR</li><li>AWS EKS</li><li>AWS CloudWatch</li></ul>|
 | [Movie Picture Pipeline](https://github.com/PhilippeMitch/movie-picture-cicd-project)| <ul><li>Terraform</li><li>Docker</li><li>AWS EKS</li><li>Amazon ECR</li><li>Github Action</li></ul>|
