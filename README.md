@@ -38,7 +38,7 @@ Don't forget to hit the ⭐ if you like this repo.
 ## Machine Learning
 |             Projects                             |                               Tools                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------|
-|[Build an ML Pipeline for adult-classifier](https://github.com/PhilippeMitch/mlflow-cicd-pipeline)| <ul> <li>Mlflow</li> <li>Scikit-learn</li><li>CI/CD</li><li>Github Actions</li><li>Docker</li><li>Nginx</li><li>PostgreSQL</li><li>Redis</li><li>Jenkins</li> </ul>|
+|[Build an ML Pipeline for adult-classifier](https://github.com/PhilippeMitch/mlflow-cicd-pipeline)| <ul> <li>Mlflow</li> <li>Scikit-learn</li><li>CI/CD</li><li>Github Actions</li><li>Docker</li><li>Nginx</li><li>PostgreSQL</li><li>Redis</li><li>Jenkins</li><li>Slack Notification</li> </ul>|
 |[Build an ML Pipeline for Short-Term Rental Prices in NYC](https://github.com/PhilippeMitch/build-ml-pipeline-for-short-term-rental-prices)| <ul> <li>Mlflow</li> <li>Scikit-learn</li><li>Jupyter</li><li>Wandb</li> </ul>|
 [Dynamic Risk Assessment](https://github.com/PhilippeMitch/Dynamic-Risk-Assessment) | <ul><li>scikit-learn</li><li>flask</li><li>Jupyter</li><li>crontab</li><li>hydra-core</li></ul>|
 |[Inventory Monitoring at Distribution Centers](https://github.com/PhilippeMitch/Inventory-Monitoring-at-Distribution-Center-main) | <ul><li>Amazon SageMaker</li><li>Amazon S3</li><li>PyTorch</li><li>Jupyter</li></ul> |
